@@ -1,0 +1,10 @@
+{
+    "name": "enrique/api-keys",
+    "description": "API Keys backend",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
